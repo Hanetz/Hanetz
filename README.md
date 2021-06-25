@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/Hanetz">
     <img 
-        src="http://img.shields.io/badge/-Python-blue?style=flat&logo=Instagram&link=python.org/"
+        src="http://img.shields.io/badge/-Python-blue?style=flat&logo=Python&link=python.org/"
 </a>
