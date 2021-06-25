@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 </a>
 <a href="https://www.r-project.org/">
     <img 
-        src="http://img.shields.io/badge/-R-#276DC3?style=flat&logo=R&link=https://www.r-project.org/"
+        src="http://img.shields.io/badge/-R-white?style=flat&logo=R&link=https://www.r-project.org/"
 </a>
 
