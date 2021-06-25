@@ -15,7 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/Hanetz">
+<a href="https://www.python.org/">
     <img 
-        src="http://img.shields.io/badge/-Python-blue?style=flat&logo=Python&link=python.org/"
+        src="http://img.shields.io/badge/-Python-white?style=flat&logo=Python&link=https://www.python.org/"
 </a>
+<a href="https://www.r-project.org/">
+    <img 
+        src="http://img.shields.io/badge/-R-#276DC3?style=flat&logo=R&link=https://www.r-project.org/"
+</a>
+
